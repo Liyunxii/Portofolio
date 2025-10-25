@@ -11,7 +11,7 @@ Repo ini berisi hasil latihan membuat website portfolio sederhana menggunakan **
 2. Klik tombol **New repository** (atau “Repository baru”).  
    - Isi **Repository name**: misalnya `Portofolio` atau `portfolio-namaKamu`.  
    - Pilih visibility: **Public** (agar bisa dilihat orang) atau **Private** jika belum siap publish.  
-   - Bisa centang “Initialize this repository with a README” atau tidak — kalau belum, kita bisa buat README nanti.  
+   - Bisa centang “Initialize this repository with a README” atau tidak. kalau belum, kita bisa buat README nanti.  
    - Klik **Create repository**.  
 3. Setelah repository dibuat, **clone ke komputer kamu di VS Code** (opsional) atau langsung upload file lewat GitHub Web.  
 4. Buat dua file utama:  
