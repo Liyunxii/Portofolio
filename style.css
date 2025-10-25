@@ -1,0 +1,117 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+header {
+  background-color: blue;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-top: 10px;
+}
+
+nav ul li {
+  display: inline;
+  margin: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  width: 90%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+h2 {
+  color: navy;
+  margin-bottom: 10px;
+}
+
+.Home span {
+  color: navy;
+  font-weight: bold;
+}
+
+.Project-list {
+  margin-top: 15px;
+}
+
+.project-card {
+  background-color: white;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  width: 250px;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.project-card a {
+  display: block;
+  margin-top: 8px;
+  color: royalblue;
+  text-decoration: none;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
+
+.Certificate {
+  width: 90%;
+  margin: 40px auto;
+  text-align: center;
+  background-color: white;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.Certificate h2 {
+  color: midnightblue;
+  margin-bottom: 10px;
+}
+
+.Certificate img {
+  width: 60%;
+  max-width: 400px;
+  border-radius: 8px;
+  border: 1px solid gray;
+  margin: 15px;
+}
+
+.Certificate h3 {
+  color: navy;
+  margin-top: 5px;
+}
+
+.Contact {
+  width: 90%;
+  margin: 40px auto;
+  text-align: center;
+  background-color: aliceblue;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+footer {
+  background-color: midnightblue;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+  font-size: 14px;
+}
